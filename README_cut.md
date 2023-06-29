@@ -16,4 +16,4 @@
 <b>PFC200:</b> <i>http://&lt;ip-address-of-your-plc&gt;/webvisu/webvisu.html</i> 
 </details>
   </li>
-  <li>Use a modern browser like Chrome, Firefox or Edge.</li>
+  <li> строка курсив </li>
